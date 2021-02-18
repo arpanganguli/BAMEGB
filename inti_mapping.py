@@ -11,7 +11,7 @@ import pandas as pd
 
 # import files
 
-url = '/Users/arpanganguli/Documents/Professional/Projects/BAMEUK/Data/data_by_ethnicity_by_utla.csv'
+url = '/Users/arpanganguli/Documents/Professional/Projects/BAMEUK/Data/tables/data_by_ethnicity_by_utla.csv'
 df = pd.read_csv(url, thousands=',')
 print(df.head())
 
