@@ -1,6 +1,8 @@
 # BAMEUK
 Visualisation of BAME population in the UK
+<br>
 <hr>
+<br>
 ![Black distribution](/Images/GB_Black.jpeg)
 ![Asian distribution](/Images/GB_Asian.jpeg)
 ![Minority Ethnic distribution](/Images/GB_Minority_Ethnic.jpeg)
