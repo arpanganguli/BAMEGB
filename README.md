@@ -2,7 +2,6 @@
 <b>Visualisation of BAME population in Great Britain</b>
 <br>
 <p>This repository visualises the distribution of Black, Asian and Ethnic Minority population within Great Britain. The maps below display the percentage (of local population) of different ethnicities within different local authorities of England, Scotland and Wales.</p>
-<br>
 <b>Source</b>
 <ol>
   <li>[Regional ethnic diversity](https://www.ethnicity-facts-figures.service.gov.uk/uk-population-by-ethnicity/national-and-regional-populations/regional-ethnic-diversity/latest#download-the-data)</li>
