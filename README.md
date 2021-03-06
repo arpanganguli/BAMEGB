@@ -19,4 +19,4 @@ This repository visualises the distribution of Black, Asian and Ethnic Minority 
 ![White distribution](/Images/GB_White.jpeg)
 ---
 **Interactive Map**
-[](/Interactive/GB_Asian_Interactive/index.html)
+[GB_Asian_Interactive](/Interactive/GB_Asian_Interactive/index.html)
