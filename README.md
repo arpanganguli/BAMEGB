@@ -3,7 +3,7 @@
 
 This repository visualises the distribution of Black, Asian and Ethnic Minority population within Great Britain. The maps below display the percentage (of local population) of different ethnicities within different local authorities of England, Scotland and Wales.
 
-Additionally you can download interactive maps for the aforementioned ethnicities [here](https://drive.google.com/drive/folders/1oaowY6r8c-Amfx5eJag6ZeTe9DcFZji7?usp=sharing). You will need to perform the following procedures to view the interactive maps:
+Additionally you can download interactive maps for the BAME population [here](https://drive.google.com/drive/folders/1oaowY6r8c-Amfx5eJag6ZeTe9DcFZji7?usp=sharing). You will need to perform the following procedures to view the interactive maps:
 1. Download and unzip the zip files.
 2. Open the `index.html` file. They usually work best in Chrome and Firefox.
 
